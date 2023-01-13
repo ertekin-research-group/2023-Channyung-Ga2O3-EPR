@@ -9,7 +9,7 @@ B. PARCHG files (the partial charge densities) of conduction band minimum (CBM) 
 
 C. POSCAR files at high temperatures with vacuum slabs for band alignment calculations
 
-D. LOCPOT files (the sum of local ionic potential and the Hartree potential) at high temperatures for band alignment calculations
+D. Planar averaged LOCPOT files (the averaged sum of local ionic potential and the Hartree potential along a-axis) at high temperatures for band alignment calculations
 
 E. Others
   1) Electronic band structure of the primitive cell of beta-gallium oxide
