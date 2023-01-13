@@ -1,4 +1,4 @@
-# 2022-Channyung-Ga2O3-EPR
+# 2023-Channyung-Ga2O3-EPR
 Generated and analyzed data repository for Electron-phonon renormalization (EPR) effects and temperature-dependence of the electronic structure of monoclinic beta-gallium oxide.
 # Files
 A. POSCAR files (a plain text file containing the lattice geometry and the ionic positions) of beta-gallium oxide at high temperatures
